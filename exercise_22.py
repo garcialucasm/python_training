@@ -1,0 +1,8 @@
+name_1 = str(input('Enter your name: '))
+print('Analyzing...')
+print('Your name in capital is: {}'.format(name_1.upper()))
+print('Your name in lowercase is: {}'.format(name_1.lower()))
+print(len(name_1) - name_1.count(" "))
+names = name_1.split()
+print('Your first name is {} and it has {} letters'.format(names[0],len(names[0])))
+print('Your last name is {} and it has {} letters'.format(names[2],len(names[-1])))
