@@ -1,0 +1,5 @@
+class_brasileiro = ('CAM', 'CRU', 'SPF', 'BOT', 'VAS', 'GOI')
+print(class_brasileiro[0:5])
+print(class_brasileiro[-4:])
+print(sorted(class_brasileiro))
+print(f'O {class_brasileiro[1]} está em {class_brasileiro.index("CRU")+1}º')
