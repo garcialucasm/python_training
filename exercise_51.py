@@ -6,3 +6,4 @@ for c in range(primeiro,primeiro+r*10, r):
     print(c, end=(' --> '))
 print('Acabou')
 print('\n', list_sum)
+ 
