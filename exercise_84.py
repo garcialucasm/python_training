@@ -31,5 +31,5 @@ for c in people:
     if min_w == c[1]:
         min_weight.append(c[0])
 
-print(f'Higher weights: {max_w}kg | {max_weight}')
-print(f'Lower weights: {min_w}kg | {min_weight}')
+print(f'Higher weight: {max_w}kg | {max_weight}')
+print(f'Lower weight: {min_w}kg | {min_weight}')
