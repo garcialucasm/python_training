@@ -10,3 +10,4 @@ if count == 2:
     print('{} é um número primo.'.format(num_typed))
 else:
     print('\n\n{} não é um número primo. Ele foi dividido {} vezes.'. format(num_typed, count))
+ 
