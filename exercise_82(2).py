@@ -17,4 +17,4 @@ for v in a_list:
 print('=-'*30)
 print(f'Full list: {a_list}')
 print(f'Even numbers on the list: {even_list}')
-print(f'Odd numbers on the list: {odd_list}')
+print(f'Odd numbers on the list: {odd_list}') 
