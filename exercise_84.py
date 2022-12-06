@@ -33,3 +33,4 @@ for c in people:
 
 print(f'Higher weight: {max_w}kg | {max_weight}')
 print(f'Lower weight: {min_w}kg | {min_weight}')
+
